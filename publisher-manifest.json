@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bf47eefed17c3118ae009874",
+  "owner": "x7wmu5dqa",
+  "repo": "page-35ee43adaea8582675d27d09",
+  "title": "云深不知处(ysbzc)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "35ee43adaea8582675d27d09",
+      "a": "云深不知处(ysbzc)",
+      "b": "2027最新官网",
+      "entity": "云深不知处(ysbzc)",
+      "brand": "云深不知处(ysbzc)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1fd6580abc906dac4100f9d61deb3d46e7e4949c0a03bb7c3b8d562c918a70d5",
+      "content": {
+        "primary_entity": "云深不知处(ysbzc)",
+        "keyword1": "云深不知处(ysbzc)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定海外网络访问的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备，适合单人日常浏览；旗舰版每月 300GB 流量、支持 5 台设备，并具备 IPLC 专线游戏加速优化，适合重度流媒体与游戏用户；团队版每月 1000GB 流量、支持 20 台设备，附带 VIP 专属高带宽节点，满足小型团队协作需求。所有套餐均按年付享优惠，订阅后依照客户端文档导入配置即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐适配不同设备规模",
+          "AI_HERO_INTRO": "云深不知处(ysbzc)为个人与团队提供海外加速订阅服务，按流量和设备数量划分基础版、旗舰版和团队版。选择套餐时先确认同时在线设备数与月流量需求，再根据流媒体或游戏场景挑选线路类型。",
+          "AI_VISUAL_TITLE": "按设备规模选加速套餐",
+          "AI_HIGHLIGHT_1": "基础版适合单人低流量使用",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏专线优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备同时在线",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量消耗和线路类型三个角度筛选套餐，避免资源不足或功能冗余。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，根据常用手机、电脑与平板的合计数量决定档位。",
+          "AI_FEATURE_TITLE_2": "按流量周期匹配",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量对应不同使用强度，重度流媒体或大文件传输建议选择旗舰版以上。",
+          "AI_FEATURE_TITLE_3": "按线路用途选择",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化，团队版配备 VIP 专属高带宽节点，普通浏览则基础版普通节点池即可满足。",
+          "AI_CLIENTS_TITLE": "客户端选择与配置",
+          "AI_CLIENTS_INTRO": "在 Windows、macOS、iOS 与 Android 上均有对应客户端可选，安装后导入订阅链接完成配置。部分第三方客户端需手动填入节点信息，请参照其配置文档操作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或按年付 ¥150/年，旗舰版 ¥35/月或按年付 ¥350/年，团队版 ¥85/月或按年付 ¥850/年。流量与设备数随档位递增，旗舰版和团队版附带专线或高带宽权益。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从确认套餐到客户端导入，按顺序完成即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量消耗，在基础版、旗舰版和团队版中选定一档下单。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统版本与客户端支持情况，下载对应平台的安装包。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "将订阅链接粘贴至客户端或按文档手动添加节点，保存后连接即可使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐再订阅",
+          "AI_CLOSING_TEXT": "先确认设备数与流量需求，再结合线路用途选择套餐并完成客户端配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "云深不知处(ysbzc) 的套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "三档套餐按流量与设备数区分。如需从基础版升级到旗舰版或团队版，可在当前周期结束后重新选择对应档位，具体升级方式请以购买时页面提示为准。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出在线数量时新设备可能无法连接，可关闭其他设备后再试。",
+          "AI_FAQ_QUESTION_3": "月付和按年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付每月扣费灵活，按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，折算月均成本更低。可按使用时长选择。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版含 IPLC 专线游戏加速优化，适合对延迟较敏感的游戏与实时通信场景，同时提供全节点原生流媒体解锁。可按需选择。",
+          "AI_FAQ_QUESTION_5": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "在对应客户端中新建订阅并粘贴链接，更新节点后选择延迟较低的节点连接。不同客户端操作略有差异，请依照其文档完成导入。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ssicwyt.cn",
+    "host": "ssicwyt.cn"
+  },
+  "file_hashes": {
+    "index.html": "56b0e1012147bb44b3df9e8a384193b2b6bc30bf4457e5114d0f5d0bf958d9c3",
+    "sitemap.xml": "f6fbc0da0f7601646d371be06e1032d6128d31a6baa5db0b659bd66f07642950",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "836753c8a6ba9b1dcbb03c337ca36352bb9f9bb7abcc899dceb3448e05323b5b",
+    "robots.txt": "9f0690869981fd72145ff9abfaa1c936556ac25fa13c8870b15afd66c59b975f",
+    "a0572b92c6a7096f44fbb85d5a0ccc83.txt": "dc5e0ba50001dd578d0887c2c97bbac70b7a80f66e9374f57984cf0a4d3abddd"
+  },
+  "revision": "8eeafd5632305cae7d38d895b6d2ec73c1392bbafc887794c22a74a46da9a101"
+}
